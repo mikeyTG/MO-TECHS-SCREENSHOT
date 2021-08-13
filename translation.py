@@ -5,7 +5,7 @@ class Translation(object):
     START_TEXT = """
 Hello {} , I'am a url to telegram file or media uploader bot with permanent thumbnail support.
 
-Made by @Mo_Tech_YT
+Made by @youtuberyt54355
 """
     HELP_TEXT = """
 <b><u>Link to Media or File</u></b>
@@ -20,24 +20,24 @@ Made by @Mo_Tech_YT
 <b><u>Show Thumbnail</u></b>
 ➠ Send /showthumb to view custom thumbnail.
 
-Made by @Mo_Tech_YT
+Made by @youtuberyt54355
 """
     ABOUT_TEXT = """
 - **Bot :** URL Uploader
-- **Creator :** [Mrk](https://telegram.dog/Mrk_YT)
-- **Channel :** [MoTech](https://telegram.dog/Mo_Tech_YT)
+- **Creator :** [Mikey](https://telegram.dog/youtuberyt54355)
+- **Channel :** [movie channel](https://telegram.dog/Malayalipeveranu)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/MRK-YT/MT-URL-Uploader)
+- **Source :** [Click here](https://t.me/MRGBOTREPAIR/9)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
-- **Tutorial :** [Video](https://youtu.be/nRSbkf3memQ)
+- **Tutorial :** [Video](https://youtu.be/mxQ6sN8yu2w)
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Mo_tech_group'),
-        InlineKeyboardButton('🤖Bot List', url='https://t.me/Mo_Tech_YT/176'),
-        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/nRSbkf3memQ')
+        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/malayalonpeverona'),
+        InlineKeyboardButton('🤖update channel', url='https://t.me/Mrgbotrepair'),
+        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/mxQ6sN8yu2w')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -46,9 +46,9 @@ Made by @Mo_Tech_YT
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Mo_tech_group'),
-        InlineKeyboardButton('🤖Bot List', url='https://t.me/Mo_Tech_YT/176'),
-        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/nRSbkf3memQ')
+        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Malayalonpeverona'),
+        InlineKeyboardButton('🤖update channel', url='https://t.me/Mrgbotrepair'),
+        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/mxQ6sN8yu2w')
         ],[
         InlineKeyboardButton('Home', callback_data='home'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -57,9 +57,9 @@ Made by @Mo_Tech_YT
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Mo_tech_group'),
-        InlineKeyboardButton('🤖Bot List', url='https://t.me/Mo_Tech_YT/176'),
-        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/nRSbkf3memQ')
+        InlineKeyboardButton('🗣️𝙶𝚛𝚘𝚞𝚙', url='https://t.me/Malayalonpeverona'),
+        InlineKeyboardButton('🤖update channel', url='https://t.me/Mrgbotrepair'),
+        InlineKeyboardButton('👨‍💻Source', url='https://youtu.be/mxQ6sN8yu2w')
         ],[
         InlineKeyboardButton('Home', callback_data='home'),
         InlineKeyboardButton('Help', callback_data='help'),
